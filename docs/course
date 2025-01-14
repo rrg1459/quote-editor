@@ -1,0 +1,58 @@
+https://www.hotrails.dev/quotes
+https://www.hotrails.dev/turbo-rails
+
+Turbo Rails Tutorial
+Learn how to leverage the power of the turbo-rails library now included by default in Rails 7 to write reactive single-page applications without having to write a single line of custom JavaScript.
+
+Chapter 0
+Turbo Rails tutorial introduction
+---
+Chapter 1
+A simple CRUD controller with Rails
+Un controlador CRUD simple con Rails
+...
+Chapter 2
+Organizing CSS files in Ruby on Rails
+Cómo organizar archivos CSS en Ruby on Rails
+
+Chapter 3
+Turbo Drive
+
+Chapter 4
+Turbo Frames and Turbo Stream templates
+Plantillas Turbo Frames y Turbo Stream
+
+Chapter 5
+Real-time updates with Turbo Streams
+Actualizaciones en tiempo real con Turbo Streams
+
+Chapter 6
+Turbo Streams and security
+
+Chapter 7
+Flash messages with Hotwire
+Mensajes flash con Hotwire
+
+Chapter 8
+Two ways to handle empty states with Hotwire
+
+Chapter 9
+Another CRUD controller with Turbo Rails
+Otro controlador CRUD con Turbo Rails
+
+Chapter 10
+Nested Turbo Frames
+
+Chapter 11
+Adding a quote total with Turbo Frames
+
+
+
+=============================================
+
+bin/rails generate model LineItem line_item_date:references name:string description:text quantity:integer unit_price:decimal{10-2}
+
+OJO references
+
+
+
